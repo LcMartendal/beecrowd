@@ -1,2 +1,2 @@
 # beecrowd
-Todo exercicios que fiz no beecrowd
+Todos exercicios que fiz no beecrowd
