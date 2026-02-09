@@ -1,5 +1,5 @@
 # beecrowd
-Todos exercicios que fiz no beecrowd
+Alguns exercícios..
 
 /**
  * IMPORTANT: 
